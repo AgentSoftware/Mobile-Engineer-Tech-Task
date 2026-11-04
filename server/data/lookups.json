@@ -1,0 +1,332 @@
+[
+  {
+    "type": "lookups",
+    "id": "1",
+    "attributes": {
+      "category": "cancellation-reason",
+      "label": "Applicant cancelled",
+      "value": null,
+      "sortOrder": 1
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "2",
+    "attributes": {
+      "category": "cancellation-reason",
+      "label": "Applicant did not attend",
+      "value": null,
+      "sortOrder": 2
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "3",
+    "attributes": {
+      "category": "cancellation-reason",
+      "label": "Vendor cancelled",
+      "value": null,
+      "sortOrder": 3
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "4",
+    "attributes": {
+      "category": "cancellation-reason",
+      "label": "Landlord cancelled",
+      "value": null,
+      "sortOrder": 4
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "5",
+    "attributes": {
+      "category": "cancellation-reason",
+      "label": "Sold subject to contract",
+      "value": null,
+      "sortOrder": 5
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "6",
+    "attributes": {
+      "category": "cancellation-reason",
+      "label": "Let agreed",
+      "value": null,
+      "sortOrder": 6
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "7",
+    "attributes": {
+      "category": "cancellation-reason",
+      "label": "Agent unavailable",
+      "value": null,
+      "sortOrder": 7
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "8",
+    "attributes": {
+      "category": "cancellation-reason",
+      "label": "Access problem on the day",
+      "value": null,
+      "sortOrder": 8
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "9",
+    "attributes": {
+      "category": "cancellation-reason",
+      "label": "Booked in error",
+      "value": null,
+      "sortOrder": 9
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "10",
+    "attributes": {
+      "category": "interest-level",
+      "label": "Not interested",
+      "value": null,
+      "sortOrder": 1
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "11",
+    "attributes": {
+      "category": "interest-level",
+      "label": "Slightly interested",
+      "value": null,
+      "sortOrder": 2
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "12",
+    "attributes": {
+      "category": "interest-level",
+      "label": "Interested",
+      "value": null,
+      "sortOrder": 3
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "13",
+    "attributes": {
+      "category": "interest-level",
+      "label": "Very interested",
+      "value": null,
+      "sortOrder": 4
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "14",
+    "attributes": {
+      "category": "interest-level",
+      "label": "Wants to make an offer",
+      "value": null,
+      "sortOrder": 5
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "15",
+    "attributes": {
+      "category": "feedback-quick-response",
+      "label": "Loved the garden",
+      "value": null,
+      "sortOrder": 1
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "16",
+    "attributes": {
+      "category": "feedback-quick-response",
+      "label": "Too small",
+      "value": null,
+      "sortOrder": 2
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "17",
+    "attributes": {
+      "category": "feedback-quick-response",
+      "label": "Kitchen needs work",
+      "value": null,
+      "sortOrder": 3
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "18",
+    "attributes": {
+      "category": "feedback-quick-response",
+      "label": "Great location",
+      "value": null,
+      "sortOrder": 4
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "19",
+    "attributes": {
+      "category": "feedback-quick-response",
+      "label": "Too far from schools",
+      "value": null,
+      "sortOrder": 5
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "20",
+    "attributes": {
+      "category": "feedback-quick-response",
+      "label": "Wants a second viewing",
+      "value": null,
+      "sortOrder": 6
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "21",
+    "attributes": {
+      "category": "feedback-quick-response",
+      "label": "Worried about parking",
+      "value": null,
+      "sortOrder": 7
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "22",
+    "attributes": {
+      "category": "feedback-quick-response",
+      "label": "Price feels high",
+      "value": null,
+      "sortOrder": 8
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "23",
+    "attributes": {
+      "category": "feedback-quick-response",
+      "label": "Lots of natural light",
+      "value": null,
+      "sortOrder": 9
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "24",
+    "attributes": {
+      "category": "feedback-quick-response",
+      "label": "Not enough storage",
+      "value": null,
+      "sortOrder": 10
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "25",
+    "attributes": {
+      "category": "feedback-quick-response",
+      "label": "Road is too busy",
+      "value": null,
+      "sortOrder": 11
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "26",
+    "attributes": {
+      "category": "feedback-quick-response",
+      "label": "Would offer below asking",
+      "value": null,
+      "sortOrder": 12
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "27",
+    "attributes": {
+      "category": "viewing-duration",
+      "label": "15 minutes",
+      "value": 15,
+      "sortOrder": 1
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "28",
+    "attributes": {
+      "category": "viewing-duration",
+      "label": "30 minutes",
+      "value": 30,
+      "sortOrder": 2
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "29",
+    "attributes": {
+      "category": "viewing-duration",
+      "label": "45 minutes",
+      "value": 45,
+      "sortOrder": 3
+    },
+    "relationships": {}
+  },
+  {
+    "type": "lookups",
+    "id": "30",
+    "attributes": {
+      "category": "viewing-duration",
+      "label": "1 hour",
+      "value": 60,
+      "sortOrder": 4
+    },
+    "relationships": {}
+  }
+]

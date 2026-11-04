@@ -1,0 +1,41 @@
+[
+  {
+    "type": "agents",
+    "id": "1",
+    "attributes": {
+      "firstName": "Alex",
+      "lastName": "Morgan",
+      "email": "alex.morgan@example.com",
+      "phone": "07700 900001",
+      "jobTitle": "Sales & Lettings Negotiator",
+      "branch": "Didsbury"
+    },
+    "relationships": {}
+  },
+  {
+    "type": "agents",
+    "id": "2",
+    "attributes": {
+      "firstName": "Priya",
+      "lastName": "Shah",
+      "email": "priya.shah@example.com",
+      "phone": "07700 900002",
+      "jobTitle": "Senior Negotiator",
+      "branch": "Didsbury"
+    },
+    "relationships": {}
+  },
+  {
+    "type": "agents",
+    "id": "3",
+    "attributes": {
+      "firstName": "Tom",
+      "lastName": "Okafor",
+      "email": "tom.okafor@example.com",
+      "phone": "07700 900003",
+      "jobTitle": "Lettings Negotiator",
+      "branch": "Didsbury"
+    },
+    "relationships": {}
+  }
+]

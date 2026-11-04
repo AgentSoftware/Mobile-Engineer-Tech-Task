@@ -1,0 +1,2841 @@
+[
+  {
+    "type": "properties",
+    "id": "1",
+    "attributes": {
+      "address": {
+        "line1": "129 Elmstead Road",
+        "line2": null,
+        "town": "Sale",
+        "city": "Sale",
+        "postcode": "M33 6LX",
+        "latitude": 53.41996,
+        "longitude": -2.31785
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 345000,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": null
+      },
+      "propertyType": "Maisonette",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "receptions": 2,
+      "tenure": "Freehold",
+      "councilTaxBand": "B",
+      "epcRating": "D",
+      "description": "A spacious 3-bedroom maisonette in the heart of Sale, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 3 bedrooms and a family bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Bay-fronted lounge",
+        "Utility room",
+        "Double glazing throughout",
+        "Close to the Metrolink",
+        "Original period features",
+        "Loft conversion potential"
+      ],
+      "accessNotes": "Keys are at the branch. Collect them before the viewing.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "1"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "7"
+          },
+          {
+            "type": "images",
+            "id": "9"
+          },
+          {
+            "type": "images",
+            "id": "10"
+          },
+          {
+            "type": "images",
+            "id": "11"
+          },
+          {
+            "type": "images",
+            "id": "15"
+          },
+          {
+            "type": "images",
+            "id": "14"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "2",
+    "attributes": {
+      "address": {
+        "line1": "16 Willowbank Drive",
+        "line2": null,
+        "town": "Levenshulme",
+        "city": "Manchester",
+        "postcode": "M19 5NN",
+        "latitude": 53.44005,
+        "longitude": -2.19392
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 300000,
+        "currency": "GBP",
+        "qualifier": "Offers in the region of",
+        "frequency": null
+      },
+      "propertyType": "Semi-detached house",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "receptions": 1,
+      "tenure": "Freehold",
+      "councilTaxBand": "E",
+      "epcRating": "B",
+      "description": "A modern 4-bedroom semi-detached house in the heart of Levenshulme, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 4 bedrooms and a family bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Close to the Metrolink",
+        "South-facing garden",
+        "Bay-fronted lounge",
+        "Balcony with city views"
+      ],
+      "accessNotes": "Key safe on the wall by the bins.",
+      "keySafeCode": "7470"
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "2"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "8"
+          },
+          {
+            "type": "images",
+            "id": "14"
+          },
+          {
+            "type": "images",
+            "id": "15"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "3",
+    "attributes": {
+      "address": {
+        "line1": "128 Juniper Walk",
+        "line2": null,
+        "town": "Withington",
+        "city": "Manchester",
+        "postcode": "M20 1XB",
+        "latitude": 53.43936,
+        "longitude": -2.23952
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 375000,
+        "currency": "GBP",
+        "qualifier": "Offers over",
+        "frequency": null
+      },
+      "propertyType": "Semi-detached house",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "receptions": 1,
+      "tenure": "Freehold",
+      "councilTaxBand": "D",
+      "epcRating": "C",
+      "description": "A spacious 4-bedroom semi-detached house in the heart of Withington, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 4 bedrooms and a family bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Close to the Metrolink",
+        "Open-plan living and kitchen",
+        "Balcony with city views",
+        "Original period features",
+        "Utility room"
+      ],
+      "accessNotes": "Key safe on the wall by the bins.",
+      "keySafeCode": "2524"
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "3"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "1"
+          },
+          {
+            "type": "images",
+            "id": "10"
+          },
+          {
+            "type": "images",
+            "id": "16"
+          },
+          {
+            "type": "images",
+            "id": "15"
+          },
+          {
+            "type": "images",
+            "id": "9"
+          },
+          {
+            "type": "images",
+            "id": "11"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "4",
+    "attributes": {
+      "address": {
+        "line1": "67 Penrose Avenue",
+        "line2": null,
+        "town": "Altrincham",
+        "city": "Altrincham",
+        "postcode": "WA14 1PF",
+        "latitude": 53.38535,
+        "longitude": -2.34771
+      },
+      "market": "sales",
+      "status": "Under offer",
+      "price": {
+        "amount": 355000,
+        "currency": "GBP",
+        "qualifier": "Offers in the region of",
+        "frequency": null
+      },
+      "propertyType": "Semi-detached house",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "receptions": 1,
+      "tenure": "Freehold",
+      "councilTaxBand": "A",
+      "epcRating": "C",
+      "description": "A modern 3-bedroom semi-detached house in the heart of Altrincham, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 3 bedrooms and a family bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "South-facing garden",
+        "Close to independent shops and cafés",
+        "Off-road parking for two cars",
+        "Close to the Metrolink",
+        "Walking distance to good schools"
+      ],
+      "accessNotes": "The concierge holds the keys. Show ID at the desk.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "4"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "7"
+          },
+          {
+            "type": "images",
+            "id": "12"
+          },
+          {
+            "type": "images",
+            "id": "13"
+          },
+          {
+            "type": "images",
+            "id": "14"
+          },
+          {
+            "type": "images",
+            "id": "11"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "5",
+    "attributes": {
+      "address": {
+        "line1": "Flat 15, Kingsley Court",
+        "line2": "41 Lavender Row",
+        "town": "Urmston",
+        "city": "Manchester",
+        "postcode": "M41 2UT",
+        "latitude": 53.45371,
+        "longitude": -2.36168
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 190000,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": null
+      },
+      "propertyType": "Flat",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "receptions": 1,
+      "tenure": "Leasehold",
+      "councilTaxBand": "A",
+      "epcRating": "C",
+      "description": "A modern 2-bedroom flat in the heart of Urmston, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an open-plan living area and kitchen, 2 bedrooms and a family bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Open-plan living and kitchen",
+        "Double glazing throughout",
+        "Gas central heating",
+        "South-facing garden",
+        "Downstairs WC",
+        "Off-road parking for two cars"
+      ],
+      "accessNotes": "Keys are at the branch. Collect them before the viewing.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "5"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "3"
+          },
+          {
+            "type": "images",
+            "id": "14"
+          },
+          {
+            "type": "images",
+            "id": "16"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "6",
+    "attributes": {
+      "address": {
+        "line1": "57 Cedar Mews",
+        "line2": null,
+        "town": "Altrincham",
+        "city": "Altrincham",
+        "postcode": "WA14 7XR",
+        "latitude": 53.38774,
+        "longitude": -2.34827
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 535000,
+        "currency": "GBP",
+        "qualifier": "Guide price",
+        "frequency": null
+      },
+      "propertyType": "Detached house",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "receptions": 2,
+      "tenure": "Freehold",
+      "councilTaxBand": "A",
+      "epcRating": "C",
+      "description": "A characterful 4-bedroom detached house in the heart of Altrincham, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 4 bedrooms and a family bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Close to the Metrolink",
+        "Double glazing throughout",
+        "Log burner",
+        "Loft conversion potential",
+        "Utility room"
+      ],
+      "accessNotes": "The owner will be home. Ring the bell.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "6"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "1"
+          },
+          {
+            "type": "images",
+            "id": "13"
+          },
+          {
+            "type": "images",
+            "id": "9"
+          },
+          {
+            "type": "images",
+            "id": "12"
+          },
+          {
+            "type": "images",
+            "id": "14"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "7",
+    "attributes": {
+      "address": {
+        "line1": "72 Oakhurst Lane",
+        "line2": null,
+        "town": "Didsbury",
+        "city": "Manchester",
+        "postcode": "M20 6XE",
+        "latitude": 53.41917,
+        "longitude": -2.23661
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 250000,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": null
+      },
+      "propertyType": "Terraced house",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "receptions": 1,
+      "tenure": "Freehold",
+      "councilTaxBand": "A",
+      "epcRating": "D",
+      "description": "A well-presented 2-bedroom terraced house in the heart of Didsbury, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an open-plan living area and kitchen, 2 bedrooms and a modern bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "South-facing garden",
+        "Original period features",
+        "Off-road parking for two cars",
+        "Garage",
+        "Balcony with city views",
+        "Open-plan living and kitchen"
+      ],
+      "accessNotes": "Key safe on the wall by the bins.",
+      "keySafeCode": "4661"
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "7"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "3"
+          },
+          {
+            "type": "images",
+            "id": "13"
+          },
+          {
+            "type": "images",
+            "id": "9"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "8",
+    "attributes": {
+      "address": {
+        "line1": "44 Redwood Close",
+        "line2": null,
+        "town": "Stretford",
+        "city": "Manchester",
+        "postcode": "M32 2LH",
+        "latitude": 53.43834,
+        "longitude": -2.29947
+      },
+      "market": "sales",
+      "status": "Under offer",
+      "price": {
+        "amount": 245000,
+        "currency": "GBP",
+        "qualifier": "Offers over",
+        "frequency": null
+      },
+      "propertyType": "Semi-detached house",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "receptions": 2,
+      "tenure": "Freehold",
+      "councilTaxBand": "A",
+      "epcRating": "B",
+      "description": "A beautifully refurbished 3-bedroom semi-detached house in the heart of Stretford, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 3 bedrooms and a modern bathroom.\n\nViewing is highly recommended to appreciate the space on offer.\n\nOutside, the rear garden has been landscaped over several years by the current owners and now includes a raised patio, mature borders, a greenhouse, a timber summer house with power and lighting, and a gate onto the rear access lane. To the front there is a block-paved driveway with an electric vehicle charging point. The loft is boarded with a pull-down ladder and the cellar has been tanked, making it suitable for storage or a home gym. Council tax band D. Freehold.",
+      "keyFeatures": [
+        "Original period features",
+        "South-facing garden",
+        "Garage",
+        "Double glazing throughout",
+        "Open-plan living and kitchen"
+      ],
+      "accessNotes": "Tenant in situ. They ask for 24 hours notice.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "8"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "8"
+          },
+          {
+            "type": "images",
+            "id": "10"
+          },
+          {
+            "type": "images",
+            "id": "15"
+          },
+          {
+            "type": "images",
+            "id": "14"
+          },
+          {
+            "type": "images",
+            "id": "9"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "9",
+    "attributes": {
+      "address": {
+        "line1": "77 Northcote Avenue",
+        "line2": null,
+        "town": "Urmston",
+        "city": "Manchester",
+        "postcode": "M41 1QW",
+        "latitude": 53.45193,
+        "longitude": -2.36279
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 370000,
+        "currency": "GBP",
+        "qualifier": "Offers in the region of",
+        "frequency": null
+      },
+      "propertyType": "Semi-detached house",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "receptions": 2,
+      "tenure": "Freehold",
+      "councilTaxBand": "D",
+      "epcRating": "D",
+      "description": "A charming 4-bedroom semi-detached house in the heart of Urmston, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 4 bedrooms and a modern bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Open-plan living and kitchen",
+        "Double glazing throughout",
+        "Log burner",
+        "Garage",
+        "Close to the Metrolink"
+      ],
+      "accessNotes": "Key safe by the side gate.",
+      "keySafeCode": "1515"
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "9"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "1"
+          },
+          {
+            "type": "images",
+            "id": "15"
+          },
+          {
+            "type": "images",
+            "id": "13"
+          },
+          {
+            "type": "images",
+            "id": "12"
+          },
+          {
+            "type": "images",
+            "id": "11"
+          },
+          {
+            "type": "images",
+            "id": "16"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "10",
+    "attributes": {
+      "address": {
+        "line1": "Flat 14, Albion House",
+        "line2": "57 Sandringham Way",
+        "town": "Withington",
+        "city": "Manchester",
+        "postcode": "M20 1AT",
+        "latitude": 53.42652,
+        "longitude": -2.22978
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 140000,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": null
+      },
+      "propertyType": "Flat",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "receptions": 1,
+      "tenure": "Leasehold",
+      "councilTaxBand": "C",
+      "epcRating": "D",
+      "description": "A spacious 1-bedroom flat in the heart of Withington, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an open-plan living area and kitchen, 1 bedroom and a modern bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Garage",
+        "Loft conversion potential",
+        "Recently fitted kitchen",
+        "Log burner"
+      ],
+      "accessNotes": "Keys are at the branch. Collect them before the viewing.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "10"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "3"
+          },
+          {
+            "type": "images",
+            "id": "12"
+          },
+          {
+            "type": "images",
+            "id": "10"
+          },
+          {
+            "type": "images",
+            "id": "15"
+          },
+          {
+            "type": "images",
+            "id": "11"
+          },
+          {
+            "type": "images",
+            "id": "14"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "11",
+    "attributes": {
+      "address": {
+        "line1": "7 Elder Grove",
+        "line2": null,
+        "town": "Chorlton",
+        "city": "Manchester",
+        "postcode": "M21 7TE",
+        "latitude": 53.43647,
+        "longitude": -2.26797
+      },
+      "market": "sales",
+      "status": "Sold STC",
+      "price": {
+        "amount": 385000,
+        "currency": "GBP",
+        "qualifier": "Offers over",
+        "frequency": null
+      },
+      "propertyType": "Semi-detached house",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "receptions": 1,
+      "tenure": "Freehold",
+      "councilTaxBand": "C",
+      "epcRating": "D",
+      "description": "A characterful 4-bedroom semi-detached house in the heart of Chorlton, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 4 bedrooms and a family bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Downstairs WC",
+        "Gas central heating",
+        "Close to independent shops and cafés",
+        "Loft conversion potential",
+        "Walking distance to good schools",
+        "Double glazing throughout"
+      ],
+      "accessNotes": "Key safe on the wall by the bins.",
+      "keySafeCode": "3625"
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "11"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "5"
+          },
+          {
+            "type": "images",
+            "id": "9"
+          },
+          {
+            "type": "images",
+            "id": "11"
+          },
+          {
+            "type": "images",
+            "id": "12"
+          },
+          {
+            "type": "images",
+            "id": "15"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "12",
+    "attributes": {
+      "address": {
+        "line1": "73 Orchard Rise",
+        "line2": null,
+        "town": "Chorlton",
+        "city": "Manchester",
+        "postcode": "M21 7LD",
+        "latitude": 53.43543,
+        "longitude": -2.2713
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 410000,
+        "currency": "GBP",
+        "qualifier": "Guide price",
+        "frequency": null
+      },
+      "propertyType": "Semi-detached house",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "receptions": 1,
+      "tenure": "Freehold",
+      "councilTaxBand": "A",
+      "epcRating": "D",
+      "description": "A modern 4-bedroom semi-detached house in the heart of Chorlton, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 4 bedrooms and a modern bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Open-plan living and kitchen",
+        "Off-road parking for two cars",
+        "Double glazing throughout",
+        "South-facing garden",
+        "Loft conversion potential",
+        "Downstairs WC"
+      ],
+      "accessNotes": "Key safe by the side gate.",
+      "keySafeCode": "7382"
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "12"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "3"
+          },
+          {
+            "type": "images",
+            "id": "16"
+          },
+          {
+            "type": "images",
+            "id": "13"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "13",
+    "attributes": {
+      "address": {
+        "line1": "103 Harcourt Gardens",
+        "line2": null,
+        "town": "Urmston",
+        "city": "Manchester",
+        "postcode": "M41 6RF",
+        "latitude": 53.4513,
+        "longitude": -2.35681
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 335000,
+        "currency": "GBP",
+        "qualifier": "Guide price",
+        "frequency": null
+      },
+      "propertyType": "Detached house",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "receptions": 2,
+      "tenure": "Freehold",
+      "councilTaxBand": "A",
+      "epcRating": "E",
+      "description": "A well-presented 4-bedroom detached house in the heart of Urmston, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 4 bedrooms and a modern bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Open-plan living and kitchen",
+        "Utility room",
+        "South-facing garden",
+        "Loft conversion potential",
+        "Close to the Metrolink",
+        "Bay-fronted lounge"
+      ],
+      "accessNotes": "The owner will be home. Ring the bell.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "13"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "4"
+          },
+          {
+            "type": "images",
+            "id": "10"
+          },
+          {
+            "type": "images",
+            "id": "13"
+          },
+          {
+            "type": "images",
+            "id": "16"
+          },
+          {
+            "type": "images",
+            "id": "14"
+          },
+          {
+            "type": "images",
+            "id": "15"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "14",
+    "attributes": {
+      "address": {
+        "line1": "48 Millbrook Lane",
+        "line2": null,
+        "town": "Urmston",
+        "city": "Manchester",
+        "postcode": "M41 5WL",
+        "latitude": 53.44944,
+        "longitude": -2.35672
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 300000,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": null
+      },
+      "propertyType": "Detached house",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "receptions": 2,
+      "tenure": "Freehold",
+      "councilTaxBand": "E",
+      "epcRating": "E",
+      "description": "A spacious 4-bedroom detached house in the heart of Urmston, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 4 bedrooms and a family bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Garage",
+        "Bay-fronted lounge",
+        "Recently fitted kitchen",
+        "Log burner"
+      ],
+      "accessNotes": "Key safe on the wall by the bins.",
+      "keySafeCode": "1055"
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "14"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "6"
+          },
+          {
+            "type": "images",
+            "id": "16"
+          },
+          {
+            "type": "images",
+            "id": "14"
+          },
+          {
+            "type": "images",
+            "id": "15"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "15",
+    "attributes": {
+      "address": {
+        "line1": "17 Calder Grove",
+        "line2": null,
+        "town": "Chorlton",
+        "city": "Manchester",
+        "postcode": "M21 2GZ",
+        "latitude": 53.44319,
+        "longitude": -2.26744
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 370000,
+        "currency": "GBP",
+        "qualifier": "Offers in the region of",
+        "frequency": null
+      },
+      "propertyType": "Detached house",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "receptions": 2,
+      "tenure": "Freehold",
+      "councilTaxBand": "C",
+      "epcRating": "C",
+      "description": "A beautifully refurbished 4-bedroom detached house in the heart of Chorlton, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 4 bedrooms and a modern bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "South-facing garden",
+        "Bay-fronted lounge",
+        "Double glazing throughout",
+        "Walking distance to good schools",
+        "Close to the Metrolink",
+        "Downstairs WC"
+      ],
+      "accessNotes": "Key safe by the side gate.",
+      "keySafeCode": "8701"
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "15"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "4"
+          },
+          {
+            "type": "images",
+            "id": "16"
+          },
+          {
+            "type": "images",
+            "id": "11"
+          },
+          {
+            "type": "images",
+            "id": "10"
+          },
+          {
+            "type": "images",
+            "id": "13"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "16",
+    "attributes": {
+      "address": {
+        "line1": "90 Ashdown Close",
+        "line2": null,
+        "town": "Urmston",
+        "city": "Manchester",
+        "postcode": "M41 9LF",
+        "latitude": 53.44085,
+        "longitude": -2.36129
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 285000,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": null
+      },
+      "propertyType": "Semi-detached house",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "receptions": 1,
+      "tenure": "Freehold",
+      "councilTaxBand": "C",
+      "epcRating": "D",
+      "description": "A well-presented 3-bedroom semi-detached house in the heart of Urmston, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 3 bedrooms and a modern bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Loft conversion potential",
+        "Downstairs WC",
+        "South-facing garden",
+        "Walking distance to good schools",
+        "Double glazing throughout"
+      ],
+      "accessNotes": "The owner will be home. Ring the bell.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "16"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "4"
+          },
+          {
+            "type": "images",
+            "id": "11"
+          },
+          {
+            "type": "images",
+            "id": "10"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "17",
+    "attributes": {
+      "address": {
+        "line1": "128 Marlow Street",
+        "line2": null,
+        "town": "Withington",
+        "city": "Manchester",
+        "postcode": "M20 7YQ",
+        "latitude": 53.43785,
+        "longitude": -2.23895
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 370000,
+        "currency": "GBP",
+        "qualifier": "Offers in the region of",
+        "frequency": null
+      },
+      "propertyType": "Detached house",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "receptions": 1,
+      "tenure": "Freehold",
+      "councilTaxBand": "C",
+      "epcRating": "D",
+      "description": "A well-presented 4-bedroom detached house in the heart of Withington, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 4 bedrooms and a family bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Loft conversion potential",
+        "Original period features",
+        "Utility room",
+        "Gas central heating",
+        "Double glazing throughout",
+        "Balcony with city views"
+      ],
+      "accessNotes": "Tenant in situ. They ask for 24 hours notice.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "17"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "3"
+          },
+          {
+            "type": "images",
+            "id": "13"
+          },
+          {
+            "type": "images",
+            "id": "16"
+          },
+          {
+            "type": "images",
+            "id": "12"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "18",
+    "attributes": {
+      "address": {
+        "line1": "3 Holloway Drive",
+        "line2": null,
+        "town": "Didsbury",
+        "city": "Manchester",
+        "postcode": "M20 5JG",
+        "latitude": 53.41233,
+        "longitude": -2.22651
+      },
+      "market": "sales",
+      "status": "Under offer",
+      "price": {
+        "amount": 335000,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": null
+      },
+      "propertyType": "Maisonette",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "receptions": 1,
+      "tenure": "Freehold",
+      "councilTaxBand": "A",
+      "epcRating": "D",
+      "description": "A well-presented 3-bedroom maisonette in the heart of Didsbury, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 3 bedrooms and a family bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Downstairs WC",
+        "Recently fitted kitchen",
+        "Utility room",
+        "Off-road parking for two cars"
+      ],
+      "accessNotes": "The owner will be home. Ring the bell.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "18"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "5"
+          },
+          {
+            "type": "images",
+            "id": "9"
+          },
+          {
+            "type": "images",
+            "id": "16"
+          },
+          {
+            "type": "images",
+            "id": "12"
+          },
+          {
+            "type": "images",
+            "id": "14"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "19",
+    "attributes": {
+      "address": {
+        "line1": "3 Bramble Close",
+        "line2": null,
+        "town": "Sale",
+        "city": "Sale",
+        "postcode": "M33 9UG",
+        "latitude": 53.41627,
+        "longitude": -2.31662
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 260000,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": null
+      },
+      "propertyType": "Terraced house",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "receptions": 2,
+      "tenure": "Freehold",
+      "councilTaxBand": "E",
+      "epcRating": "E",
+      "description": "A spacious 2-bedroom terraced house in the heart of Sale, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an open-plan living area and kitchen, 2 bedrooms and a family bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Loft conversion potential",
+        "Close to the Metrolink",
+        "Off-road parking for two cars",
+        "Recently fitted kitchen",
+        "Open-plan living and kitchen"
+      ],
+      "accessNotes": "The owner will be home. Ring the bell.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "19"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "8"
+          },
+          {
+            "type": "images",
+            "id": "12"
+          },
+          {
+            "type": "images",
+            "id": "13"
+          },
+          {
+            "type": "images",
+            "id": "10"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "20",
+    "attributes": {
+      "address": {
+        "line1": "Flat 2, Beechwood Lodge",
+        "line2": "8 Linden Place",
+        "town": "Chorlton",
+        "city": "Manchester",
+        "postcode": "M21 3XG",
+        "latitude": 53.44653,
+        "longitude": -2.27026
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 210000,
+        "currency": "GBP",
+        "qualifier": "Offers in the region of",
+        "frequency": null
+      },
+      "propertyType": "Flat",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "receptions": 1,
+      "tenure": "Leasehold",
+      "councilTaxBand": "C",
+      "epcRating": "C",
+      "description": "A modern 2-bedroom flat in the heart of Chorlton, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an open-plan living area and kitchen, 2 bedrooms and a modern bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Walking distance to good schools",
+        "Loft conversion potential",
+        "Close to independent shops and cafés",
+        "Off-road parking for two cars",
+        "Recently fitted kitchen",
+        "Allocated parking space"
+      ],
+      "accessNotes": "Keys are at the branch. Collect them before the viewing.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "20"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "2"
+          },
+          {
+            "type": "images",
+            "id": "13"
+          },
+          {
+            "type": "images",
+            "id": "12"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "21",
+    "attributes": {
+      "address": {
+        "line1": "20 Foxglove Way",
+        "line2": null,
+        "town": "Sale",
+        "city": "Sale",
+        "postcode": "M33 7PZ",
+        "latitude": 53.41966,
+        "longitude": -2.32578
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 300000,
+        "currency": "GBP",
+        "qualifier": "Offers over",
+        "frequency": null
+      },
+      "propertyType": "Semi-detached house",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "receptions": 2,
+      "tenure": "Freehold",
+      "councilTaxBand": "E",
+      "epcRating": "D",
+      "description": "A spacious 3-bedroom semi-detached house in the heart of Sale, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 3 bedrooms and a family bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Gas central heating",
+        "Garage",
+        "Walking distance to good schools",
+        "Close to independent shops and cafés",
+        "Open-plan living and kitchen",
+        "Log burner"
+      ],
+      "accessNotes": "Keys are at the branch. Collect them before the viewing.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "21"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "8"
+          },
+          {
+            "type": "images",
+            "id": "11"
+          },
+          {
+            "type": "images",
+            "id": "14"
+          },
+          {
+            "type": "images",
+            "id": "16"
+          },
+          {
+            "type": "images",
+            "id": "13"
+          },
+          {
+            "type": "images",
+            "id": "12"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "22",
+    "attributes": {
+      "address": {
+        "line1": "90 Tanner Street",
+        "line2": null,
+        "town": "Sale",
+        "city": "Sale",
+        "postcode": "M33 6ZR",
+        "latitude": 53.41763,
+        "longitude": -2.31855
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 320000,
+        "currency": "GBP",
+        "qualifier": "Guide price",
+        "frequency": null
+      },
+      "propertyType": "Terraced house",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "receptions": 1,
+      "tenure": "Freehold",
+      "councilTaxBand": "C",
+      "epcRating": "E",
+      "description": "A charming 3-bedroom terraced house in the heart of Sale, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 3 bedrooms and a family bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Log burner",
+        "Double glazing throughout",
+        "Walking distance to good schools",
+        "Close to independent shops and cafés",
+        "Original period features"
+      ],
+      "accessNotes": "The owner will be home. Ring the bell.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "22"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "6"
+          },
+          {
+            "type": "images",
+            "id": "10"
+          },
+          {
+            "type": "images",
+            "id": "13"
+          },
+          {
+            "type": "images",
+            "id": "9"
+          },
+          {
+            "type": "images",
+            "id": "12"
+          },
+          {
+            "type": "images",
+            "id": "11"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "23",
+    "attributes": {
+      "address": {
+        "line1": "41 Ferndale Road",
+        "line2": null,
+        "town": "Chorlton",
+        "city": "Manchester",
+        "postcode": "M21 5ZH",
+        "latitude": 53.4359,
+        "longitude": -2.2858
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 270000,
+        "currency": "GBP",
+        "qualifier": "Offers over",
+        "frequency": null
+      },
+      "propertyType": "Terraced house",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "receptions": 2,
+      "tenure": "Freehold",
+      "councilTaxBand": "A",
+      "epcRating": "C",
+      "description": "A spacious 2-bedroom terraced house in the heart of Chorlton, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an open-plan living area and kitchen, 2 bedrooms and a family bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Walking distance to good schools",
+        "Close to the Metrolink",
+        "South-facing garden",
+        "Garage",
+        "Balcony with city views",
+        "Recently fitted kitchen"
+      ],
+      "accessNotes": "Key safe by the side gate.",
+      "keySafeCode": "9680"
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "23"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "1"
+          },
+          {
+            "type": "images",
+            "id": "16"
+          },
+          {
+            "type": "images",
+            "id": "15"
+          },
+          {
+            "type": "images",
+            "id": "11"
+          },
+          {
+            "type": "images",
+            "id": "9"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "24",
+    "attributes": {
+      "address": {
+        "line1": "53 Victoria Mews",
+        "line2": null,
+        "town": "Urmston",
+        "city": "Manchester",
+        "postcode": "M41 8ZB",
+        "latitude": 53.44214,
+        "longitude": -2.35715
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 255000,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": null
+      },
+      "propertyType": "Terraced house",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "receptions": 2,
+      "tenure": "Freehold",
+      "councilTaxBand": "C",
+      "epcRating": "C",
+      "description": "A charming 3-bedroom terraced house in the heart of Urmston, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 3 bedrooms and a family bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Original period features",
+        "Downstairs WC",
+        "Walking distance to good schools",
+        "Allocated parking space",
+        "Close to the Metrolink",
+        "Utility room"
+      ],
+      "accessNotes": "Keys are at the branch. Collect them before the viewing.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "24"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "5"
+          },
+          {
+            "type": "images",
+            "id": "10"
+          },
+          {
+            "type": "images",
+            "id": "13"
+          },
+          {
+            "type": "images",
+            "id": "14"
+          },
+          {
+            "type": "images",
+            "id": "15"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "25",
+    "attributes": {
+      "address": {
+        "line1": "106 Yewtree Lane",
+        "line2": null,
+        "town": "Altrincham",
+        "city": "Altrincham",
+        "postcode": "WA14 7JD",
+        "latitude": 53.37927,
+        "longitude": -2.3445
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 300000,
+        "currency": "GBP",
+        "qualifier": "Offers in the region of",
+        "frequency": null
+      },
+      "propertyType": "Terraced house",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "receptions": 2,
+      "tenure": "Freehold",
+      "councilTaxBand": "A",
+      "epcRating": "E",
+      "description": "A characterful 2-bedroom terraced house in the heart of Altrincham, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an open-plan living area and kitchen, 2 bedrooms and a modern bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Garage",
+        "South-facing garden",
+        "Downstairs WC",
+        "Original period features",
+        "Bay-fronted lounge"
+      ],
+      "accessNotes": "Dog in the garden. Keep the back door closed.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "25"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "3"
+          },
+          {
+            "type": "images",
+            "id": "13"
+          },
+          {
+            "type": "images",
+            "id": "16"
+          },
+          {
+            "type": "images",
+            "id": "10"
+          },
+          {
+            "type": "images",
+            "id": "9"
+          },
+          {
+            "type": "images",
+            "id": "12"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "26",
+    "attributes": {
+      "address": {
+        "line1": "86 Brookfield Terrace",
+        "line2": null,
+        "town": "Sale",
+        "city": "Sale",
+        "postcode": "M33 9GR",
+        "latitude": 53.42557,
+        "longitude": -2.3305
+      },
+      "market": "sales",
+      "status": "For sale",
+      "price": {
+        "amount": 345000,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": null
+      },
+      "propertyType": "Semi-detached house",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "receptions": 1,
+      "tenure": "Freehold",
+      "councilTaxBand": "A",
+      "epcRating": "C",
+      "description": "A deceptively spacious 3-bedroom semi-detached house in the heart of Sale, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 3 bedrooms and a family bathroom.\n\nViewing is highly recommended to appreciate the space on offer.",
+      "keyFeatures": [
+        "Double glazing throughout",
+        "Garage",
+        "Gas central heating",
+        "Balcony with city views",
+        "Off-road parking for two cars"
+      ],
+      "accessNotes": "The concierge holds the keys. Show ID at the desk.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "26"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "7"
+          },
+          {
+            "type": "images",
+            "id": "9"
+          },
+          {
+            "type": "images",
+            "id": "11"
+          },
+          {
+            "type": "images",
+            "id": "12"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "27",
+    "attributes": {
+      "address": {
+        "line1": "Flat 2, Riverside Point",
+        "line2": "29 Fenwick Avenue",
+        "town": "Sale",
+        "city": "Sale",
+        "postcode": "M33 5GS",
+        "latitude": 53.41792,
+        "longitude": -2.32506
+      },
+      "market": "lettings",
+      "status": "To let",
+      "price": {
+        "amount": 1100,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": "monthly"
+      },
+      "propertyType": "Flat",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "receptions": 1,
+      "tenure": null,
+      "councilTaxBand": "B",
+      "epcRating": "D",
+      "description": "A beautifully refurbished 2-bedroom flat in the heart of Sale, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an open-plan living area and kitchen, 2 bedrooms and a family bathroom.\n\nAvailable furnished. Ideal for professionals.",
+      "keyFeatures": [
+        "Log burner",
+        "Balcony with city views",
+        "Garage",
+        "Walking distance to good schools"
+      ],
+      "accessNotes": "Keys are at the branch. Collect them before the viewing.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "27"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "1"
+          },
+          {
+            "type": "images",
+            "id": "11"
+          },
+          {
+            "type": "images",
+            "id": "13"
+          },
+          {
+            "type": "images",
+            "id": "16"
+          },
+          {
+            "type": "images",
+            "id": "14"
+          },
+          {
+            "type": "images",
+            "id": "9"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "28",
+    "attributes": {
+      "address": {
+        "line1": "50 Kestrel Close",
+        "line2": null,
+        "town": "Urmston",
+        "city": "Manchester",
+        "postcode": "M41 6BL",
+        "latitude": 53.45039,
+        "longitude": -2.36479
+      },
+      "market": "lettings",
+      "status": "To let",
+      "price": {
+        "amount": 1350,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": "monthly"
+      },
+      "propertyType": "Terraced house",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "receptions": 1,
+      "tenure": null,
+      "councilTaxBand": "B",
+      "epcRating": "E",
+      "description": "A charming 3-bedroom terraced house in the heart of Urmston, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 3 bedrooms and a modern bathroom.\n\nAvailable unfurnished. Sorry, no pets.",
+      "keyFeatures": [
+        "Off-road parking for two cars",
+        "Utility room",
+        "Bay-fronted lounge",
+        "Double glazing throughout",
+        "Log burner",
+        "Recently fitted kitchen"
+      ],
+      "accessNotes": "Keys are at the branch. Collect them before the viewing.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "28"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "4"
+          },
+          {
+            "type": "images",
+            "id": "9"
+          },
+          {
+            "type": "images",
+            "id": "13"
+          },
+          {
+            "type": "images",
+            "id": "12"
+          },
+          {
+            "type": "images",
+            "id": "16"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "29",
+    "attributes": {
+      "address": {
+        "line1": "16 Merriman Street",
+        "line2": null,
+        "town": "Sale",
+        "city": "Sale",
+        "postcode": "M33 7QL",
+        "latitude": 53.42128,
+        "longitude": -2.31213
+      },
+      "market": "lettings",
+      "status": "To let",
+      "price": {
+        "amount": 1575,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": "monthly"
+      },
+      "propertyType": "Semi-detached house",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "receptions": 2,
+      "tenure": null,
+      "councilTaxBand": "C",
+      "epcRating": "C",
+      "description": "A spacious 3-bedroom semi-detached house in the heart of Sale, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 3 bedrooms and a modern bathroom.\n\nAvailable unfurnished. Pets considered.",
+      "keyFeatures": [
+        "Allocated parking space",
+        "Log burner",
+        "Gas central heating",
+        "Close to independent shops and cafés",
+        "Open-plan living and kitchen"
+      ],
+      "accessNotes": "Key safe by the side gate.",
+      "keySafeCode": "4999"
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "29"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "3"
+          },
+          {
+            "type": "images",
+            "id": "15"
+          },
+          {
+            "type": "images",
+            "id": "12"
+          },
+          {
+            "type": "images",
+            "id": "14"
+          },
+          {
+            "type": "images",
+            "id": "10"
+          },
+          {
+            "type": "images",
+            "id": "16"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "30",
+    "attributes": {
+      "address": {
+        "line1": "42 Hollins Grove",
+        "line2": null,
+        "town": "Chorlton",
+        "city": "Manchester",
+        "postcode": "M21 5LR",
+        "latitude": 53.44775,
+        "longitude": -2.28544
+      },
+      "market": "lettings",
+      "status": "Let agreed",
+      "price": {
+        "amount": 1500,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": "monthly"
+      },
+      "propertyType": "Semi-detached house",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "receptions": 2,
+      "tenure": null,
+      "councilTaxBand": "E",
+      "epcRating": "E",
+      "description": "A well-presented 3-bedroom semi-detached house in the heart of Chorlton, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 3 bedrooms and a modern bathroom.\n\nAvailable part furnished. Ideal for professionals.",
+      "keyFeatures": [
+        "Recently fitted kitchen",
+        "Close to the Metrolink",
+        "Allocated parking space",
+        "Balcony with city views"
+      ],
+      "accessNotes": "Dog in the garden. Keep the back door closed.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "30"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "1"
+          },
+          {
+            "type": "images",
+            "id": "12"
+          },
+          {
+            "type": "images",
+            "id": "11"
+          },
+          {
+            "type": "images",
+            "id": "16"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "31",
+    "attributes": {
+      "address": {
+        "line1": "63 Primrose Terrace",
+        "line2": null,
+        "town": "Levenshulme",
+        "city": "Manchester",
+        "postcode": "M19 9AX",
+        "latitude": 53.44697,
+        "longitude": -2.18442
+      },
+      "market": "lettings",
+      "status": "To let",
+      "price": {
+        "amount": 1125,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": "monthly"
+      },
+      "propertyType": "Semi-detached house",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "receptions": 1,
+      "tenure": null,
+      "councilTaxBand": "D",
+      "epcRating": "D",
+      "description": "A well-presented 3-bedroom semi-detached house in the heart of Levenshulme, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 3 bedrooms and a family bathroom.\n\nAvailable furnished. Pets considered.",
+      "keyFeatures": [
+        "Open-plan living and kitchen",
+        "Off-road parking for two cars",
+        "Utility room",
+        "Gas central heating"
+      ],
+      "accessNotes": "Key safe on the wall by the bins.",
+      "keySafeCode": "4524"
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "31"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "3"
+          },
+          {
+            "type": "images",
+            "id": "14"
+          },
+          {
+            "type": "images",
+            "id": "11"
+          },
+          {
+            "type": "images",
+            "id": "15"
+          },
+          {
+            "type": "images",
+            "id": "9"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "32",
+    "attributes": {
+      "address": {
+        "line1": "42 Upton Grove",
+        "line2": null,
+        "town": "Sale",
+        "city": "Sale",
+        "postcode": "M33 1AH",
+        "latitude": 53.42296,
+        "longitude": -2.31665
+      },
+      "market": "lettings",
+      "status": "To let",
+      "price": {
+        "amount": 1350,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": "monthly"
+      },
+      "propertyType": "Terraced house",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "receptions": 1,
+      "tenure": null,
+      "councilTaxBand": "B",
+      "epcRating": "B",
+      "description": "A charming 3-bedroom terraced house in the heart of Sale, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 3 bedrooms and a modern bathroom.\n\nAvailable part furnished. Pets considered.",
+      "keyFeatures": [
+        "Balcony with city views",
+        "Log burner",
+        "Gas central heating",
+        "Walking distance to good schools",
+        "Downstairs WC"
+      ],
+      "accessNotes": "Dog in the garden. Keep the back door closed.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "32"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "3"
+          },
+          {
+            "type": "images",
+            "id": "15"
+          },
+          {
+            "type": "images",
+            "id": "13"
+          },
+          {
+            "type": "images",
+            "id": "14"
+          },
+          {
+            "type": "images",
+            "id": "11"
+          },
+          {
+            "type": "images",
+            "id": "10"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "33",
+    "attributes": {
+      "address": {
+        "line1": "91 Rowan Crescent",
+        "line2": null,
+        "town": "Sale",
+        "city": "Sale",
+        "postcode": "M33 7QT",
+        "latitude": 53.42747,
+        "longitude": -2.33158
+      },
+      "market": "lettings",
+      "status": "To let",
+      "price": {
+        "amount": 1325,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": "monthly"
+      },
+      "propertyType": "Bungalow",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "receptions": 2,
+      "tenure": null,
+      "councilTaxBand": "D",
+      "epcRating": "D",
+      "description": "A deceptively spacious 3-bedroom bungalow in the heart of Sale, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 3 bedrooms and a modern bathroom.\n\nAvailable unfurnished. Sorry, no pets.",
+      "keyFeatures": [
+        "Walking distance to good schools",
+        "Recently fitted kitchen",
+        "Close to independent shops and cafés",
+        "Allocated parking space"
+      ],
+      "accessNotes": "Dog in the garden. Keep the back door closed.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "33"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "7"
+          },
+          {
+            "type": "images",
+            "id": "15"
+          },
+          {
+            "type": "images",
+            "id": "10"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "34",
+    "attributes": {
+      "address": {
+        "line1": "85 Wexford Road",
+        "line2": null,
+        "town": "Sale",
+        "city": "Sale",
+        "postcode": "M33 3YQ",
+        "latitude": 53.42737,
+        "longitude": -2.31663
+      },
+      "market": "lettings",
+      "status": "Let agreed",
+      "price": {
+        "amount": 2075,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": "monthly"
+      },
+      "propertyType": "Detached house",
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "receptions": 1,
+      "tenure": null,
+      "councilTaxBand": "E",
+      "epcRating": "E",
+      "description": "A deceptively spacious 5-bedroom detached house in the heart of Sale, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 5 bedrooms and a family bathroom.\n\nAvailable unfurnished. Pets considered.",
+      "keyFeatures": [
+        "Bay-fronted lounge",
+        "Walking distance to good schools",
+        "Garage",
+        "Loft conversion potential"
+      ],
+      "accessNotes": "Key safe on the wall by the bins.",
+      "keySafeCode": "9859"
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "34"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "8"
+          },
+          {
+            "type": "images",
+            "id": "10"
+          },
+          {
+            "type": "images",
+            "id": "11"
+          },
+          {
+            "type": "images",
+            "id": "15"
+          },
+          {
+            "type": "images",
+            "id": "14"
+          },
+          {
+            "type": "images",
+            "id": "9"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "35",
+    "attributes": {
+      "address": {
+        "line1": "Flat 24, Kingsley Court",
+        "line2": "37 Quarry Bank Road",
+        "town": "Levenshulme",
+        "city": "Manchester",
+        "postcode": "M19 5QA",
+        "latitude": 53.44475,
+        "longitude": -2.19741
+      },
+      "market": "lettings",
+      "status": "Let agreed",
+      "price": {
+        "amount": 700,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": "monthly"
+      },
+      "propertyType": "Flat",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "receptions": 1,
+      "tenure": null,
+      "councilTaxBand": "D",
+      "epcRating": "C",
+      "description": "A beautifully refurbished 1-bedroom flat in the heart of Levenshulme, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an open-plan living area and kitchen, 1 bedroom and a family bathroom.\n\nAvailable furnished. Pets considered.",
+      "keyFeatures": [
+        "Original period features",
+        "Downstairs WC",
+        "Walking distance to good schools",
+        "Gas central heating",
+        "Close to independent shops and cafés",
+        "Recently fitted kitchen"
+      ],
+      "accessNotes": "The concierge holds the keys. Show ID at the desk.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "1"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "4"
+          },
+          {
+            "type": "images",
+            "id": "15"
+          },
+          {
+            "type": "images",
+            "id": "9"
+          },
+          {
+            "type": "images",
+            "id": "16"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "36",
+    "attributes": {
+      "address": {
+        "line1": "94 Coniston Avenue",
+        "line2": null,
+        "town": "Stretford",
+        "city": "Manchester",
+        "postcode": "M32 7BP",
+        "latitude": 53.44695,
+        "longitude": -2.31289
+      },
+      "market": "lettings",
+      "status": "To let",
+      "price": {
+        "amount": 1350,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": "monthly"
+      },
+      "propertyType": "Semi-detached house",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "receptions": 2,
+      "tenure": null,
+      "councilTaxBand": "E",
+      "epcRating": "E",
+      "description": "A well-presented 3-bedroom semi-detached house in the heart of Stretford, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 3 bedrooms and a family bathroom.\n\nAvailable unfurnished. Pets considered.",
+      "keyFeatures": [
+        "Open-plan living and kitchen",
+        "Balcony with city views",
+        "Gas central heating",
+        "Off-road parking for two cars"
+      ],
+      "accessNotes": "Key safe by the side gate.",
+      "keySafeCode": "5238"
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "2"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "1"
+          },
+          {
+            "type": "images",
+            "id": "16"
+          },
+          {
+            "type": "images",
+            "id": "13"
+          },
+          {
+            "type": "images",
+            "id": "12"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "37",
+    "attributes": {
+      "address": {
+        "line1": "66 Larkspur Road",
+        "line2": null,
+        "town": "Urmston",
+        "city": "Manchester",
+        "postcode": "M41 8XH",
+        "latitude": 53.44917,
+        "longitude": -2.3588
+      },
+      "market": "lettings",
+      "status": "To let",
+      "price": {
+        "amount": 1200,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": "monthly"
+      },
+      "propertyType": "Terraced house",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "receptions": 2,
+      "tenure": null,
+      "councilTaxBand": "C",
+      "epcRating": "B",
+      "description": "A well-presented 3-bedroom terraced house in the heart of Urmston, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 3 bedrooms and a modern bathroom.\n\nAvailable unfurnished. Ideal for professionals.",
+      "keyFeatures": [
+        "Close to the Metrolink",
+        "Open-plan living and kitchen",
+        "Balcony with city views",
+        "Off-road parking for two cars"
+      ],
+      "accessNotes": "The concierge holds the keys. Show ID at the desk.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "3"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "5"
+          },
+          {
+            "type": "images",
+            "id": "13"
+          },
+          {
+            "type": "images",
+            "id": "12"
+          },
+          {
+            "type": "images",
+            "id": "15"
+          },
+          {
+            "type": "images",
+            "id": "14"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "38",
+    "attributes": {
+      "address": {
+        "line1": "Flat 21, Riverside Point",
+        "line2": "59 Dalton Street",
+        "town": "Sale",
+        "city": "Sale",
+        "postcode": "M33 5DE",
+        "latitude": 53.42388,
+        "longitude": -2.31708
+      },
+      "market": "lettings",
+      "status": "To let",
+      "price": {
+        "amount": 750,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": "monthly"
+      },
+      "propertyType": "Flat",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "receptions": 1,
+      "tenure": null,
+      "councilTaxBand": "A",
+      "epcRating": "E",
+      "description": "A deceptively spacious 1-bedroom flat in the heart of Sale, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an open-plan living area and kitchen, 1 bedroom and a modern bathroom.\n\nAvailable part furnished. Ideal for professionals.",
+      "keyFeatures": [
+        "Open-plan living and kitchen",
+        "Recently fitted kitchen",
+        "Log burner",
+        "Double glazing throughout",
+        "Downstairs WC",
+        "Walking distance to good schools"
+      ],
+      "accessNotes": "Keys are at the branch. Collect them before the viewing.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "4"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "7"
+          },
+          {
+            "type": "images",
+            "id": "9"
+          },
+          {
+            "type": "images",
+            "id": "13"
+          },
+          {
+            "type": "images",
+            "id": "10"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "39",
+    "attributes": {
+      "address": {
+        "line1": "22 Thornbury Way",
+        "line2": null,
+        "town": "Chorlton",
+        "city": "Manchester",
+        "postcode": "M21 6EJ",
+        "latitude": 53.44891,
+        "longitude": -2.2751
+      },
+      "market": "lettings",
+      "status": "To let",
+      "price": {
+        "amount": 1725,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": "monthly"
+      },
+      "propertyType": "Bungalow",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "receptions": 2,
+      "tenure": null,
+      "councilTaxBand": "E",
+      "epcRating": "C",
+      "description": "A deceptively spacious 3-bedroom bungalow in the heart of Chorlton, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 3 bedrooms and a modern bathroom.\n\nAvailable unfurnished. Ideal for professionals.",
+      "keyFeatures": [
+        "Log burner",
+        "Gas central heating",
+        "Double glazing throughout",
+        "Loft conversion potential",
+        "Off-road parking for two cars"
+      ],
+      "accessNotes": "Key safe on the wall by the bins.",
+      "keySafeCode": "9131"
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "5"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "3"
+          },
+          {
+            "type": "images",
+            "id": "9"
+          },
+          {
+            "type": "images",
+            "id": "16"
+          },
+          {
+            "type": "images",
+            "id": "10"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "properties",
+    "id": "40",
+    "attributes": {
+      "address": {
+        "line1": "105 Greenacre Road",
+        "line2": null,
+        "town": "Sale",
+        "city": "Sale",
+        "postcode": "M33 3GZ",
+        "latitude": 53.42516,
+        "longitude": -2.32669
+      },
+      "market": "lettings",
+      "status": "To let",
+      "price": {
+        "amount": 1350,
+        "currency": "GBP",
+        "qualifier": null,
+        "frequency": "monthly"
+      },
+      "propertyType": "Semi-detached house",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "receptions": 1,
+      "tenure": null,
+      "councilTaxBand": "C",
+      "epcRating": "D",
+      "description": "A modern 3-bedroom semi-detached house in the heart of Sale, moments from local amenities and transport links.\n\nThe accommodation briefly comprises an entrance hall, a generous lounge, a kitchen diner, 3 bedrooms and a modern bathroom.\n\nAvailable part furnished. Pets considered.",
+      "keyFeatures": [
+        "Recently fitted kitchen",
+        "Open-plan living and kitchen",
+        "Double glazing throughout",
+        "Close to independent shops and cafés"
+      ],
+      "accessNotes": "The owner will be home. Ring the bell.",
+      "keySafeCode": null
+    },
+    "relationships": {
+      "owner": {
+        "data": {
+          "type": "people",
+          "id": "6"
+        }
+      },
+      "images": {
+        "data": [
+          {
+            "type": "images",
+            "id": "7"
+          },
+          {
+            "type": "images",
+            "id": "9"
+          },
+          {
+            "type": "images",
+            "id": "11"
+          },
+          {
+            "type": "images",
+            "id": "16"
+          },
+          {
+            "type": "images",
+            "id": "13"
+          }
+        ]
+      }
+    }
+  }
+]
